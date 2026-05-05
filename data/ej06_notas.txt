@@ -1,0 +1,5 @@
+Ana:8,9,7
+Beto:5,5,10
+Cami:10
+Diego:6,7,8,9
+Elena:4,5,6

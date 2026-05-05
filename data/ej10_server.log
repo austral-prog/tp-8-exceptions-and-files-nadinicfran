@@ -1,0 +1,9 @@
+INFO: servidor iniciado
+INFO: cargando configuracion
+WARN: memoria al 80%
+ERROR: no se puede conectar a la base
+INFO: reintentando conexion
+INFO: conexion establecida
+WARN: lento respondiendo
+ERROR: timeout en request 42
+INFO: proceso terminado
